@@ -1,5 +1,5 @@
 # fortune-teller
 Fortune Teller
 
-# p1
+# instructions
 hit that dev_appserver.py app.yaml
